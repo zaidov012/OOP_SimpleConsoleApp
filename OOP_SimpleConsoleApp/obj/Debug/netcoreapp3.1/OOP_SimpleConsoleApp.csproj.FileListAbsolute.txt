@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\bin\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.exe
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\bin\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.deps.json
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\bin\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\bin\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\bin\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.dll
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\bin\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.pdb
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\obj\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\obj\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\obj\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\obj\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\obj\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.dll
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\obj\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.pdb
+C:\Users\Lenovo\source\repos\OOP_SimpleConsoleApp\OOP_SimpleConsoleApp\obj\Debug\netcoreapp3.1\OOP_SimpleConsoleApp.genruntimeconfig.cache
